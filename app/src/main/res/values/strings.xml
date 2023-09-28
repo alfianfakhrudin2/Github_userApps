@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGithubUser</string>
+    <string name="searchbar_hint">Search User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="halo">halo</string>
+    <string name="hal_akuo">hal_akuo</string>
+    <string name="dark_mode">dark_mode</string>
+    <string name="setting">setting</string>
+    <string name="favorite">favorite</string>
+    <string name="splash">splash</string>
+</resources>
